@@ -1,7 +1,8 @@
 h1{
     text-align: center;
     font-family: cursive;
-    font-size: 20;
+    font-size: 35;
+    text-decoration-color: darkslategray;
 }
 #img1{
     width: 25%;
@@ -18,6 +19,7 @@ h1{
 #img5{
     width: 25%;
 }
-body {
-    background-color:darksalmon;
+body{
+    background-color: darkgray;
+    
 }
